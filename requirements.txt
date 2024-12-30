@@ -1,0 +1,9 @@
+requests
+python-dotenv
+langchain==0.2.6
+anthropic
+psycopg2-binary
+slack-bolt
+peewee
+transformers
+langchain-anthropic
